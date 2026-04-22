@@ -39,7 +39,7 @@ Visit: [https://decoderr.dev](https://decoderr.dev)
 
 ---
 
-## ✍️ The Blog
+## ✍️ Decoderr Blog Current Issue
 
 <!-- BLOG-POST-LIST:START -->
 - [Creating Kubernetes Clusters with Kubeadm](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-kubeadm/)
