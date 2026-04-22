@@ -17,6 +17,6 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://richrose.dev/index.xml"
-          max_post_count: 5
+          feed_list: "https://decoderr.dev/index.xml"
+          max_post_count: 10
           readme_path: "profile/README.md"
