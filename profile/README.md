@@ -37,7 +37,7 @@ Visit: https://code.cmdlinezero.dev
 - [Nix Tmux](https://richrose.dev/posts/linux/nix/nix-tmux/)
 <!-- BLOG-POST-LIST:END -->
 
-Visit: https://blog.cmdlinezero.dev
+Visit: https://decoderr.dev
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
