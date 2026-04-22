@@ -42,11 +42,16 @@ Visit: [https://decoderr.dev](https://decoderr.dev)
 ## ✍️ The Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Command Substitution](https://richrose.dev/posts/linux/command-substitution/)
-- [System_Analytics](https://richrose.dev/analytics/)
-- [Nix Ollama with Zellij](https://richrose.dev/posts/linux/nix/nix-ollama/)
-- [Nix Zellij](https://richrose.dev/posts/linux/nix/nix-zellij/)
-- [Nix Tmux](https://richrose.dev/posts/linux/nix/nix-tmux/)
+- [Creating Kubernetes Clusters with Kubeadm](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-kubeadm/)
+- [Deploying with Helm and Kustomize](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-tooling/)
+- [Highly Available Kubernetes Control Plane](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-ha/)
+- [Kubernetes CustomResourceDefinitions and Operators](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-operators/)
+- [Kubernetes Extension Interfaces](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-extensions/)
+- [Managing Kubernetes Lifecycles](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-lifecycle/)
+- [Managing RBAC](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-rbac/)
+- [Preparing Infrastructure for Kubernetes Installation](https://decoderr.dev/issue-2026-01/architecture/cka-architecture-infra/)
+- [CoreDNS Configuration](https://decoderr.dev/issue-2026-01/networking/cka-networking-coredns/)
+- [Kubernetes Ingress](https://decoderr.dev/issue-2026-01/networking/cka-networking-ingress/)
 <!-- BLOG-POST-LIST:END -->
 
 Visit: https://decoderr.dev
