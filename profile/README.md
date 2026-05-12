@@ -42,16 +42,16 @@ Visit: [https://decoderr.dev](https://decoderr.dev)
 ## ✍️ Decoderr Blog Current Issue
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Debian Linux VM with Startup Script and Custom Metadata on Google Cloud](https://decoderr.dev/issue-2026-03/gce-002/)
+- [Creating a Debian VM with a Custom Service Account on Google Cloud](https://decoderr.dev/issue-2026-03/gce-001/)
+- [Creating a Debian VM with Startup Script and Metadata in GCP using Terraform](https://decoderr.dev/issue-2026-03/gce-003/)
+- [Creating a Virtual Private Cloud Network with a Custom Network in Google Cloud](https://decoderr.dev/issue-2026-03/vpc-001/)
+- [Creating a VPC Network with Custom Subnets and Firewall Rules in Google Cloud](https://decoderr.dev/issue-2026-03/vpc-002/)
 - [Build an Itinerary Planning Agent with ADK and Google Maps Grounding  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-maps-grounding/)
 - [Building a Multi-Agent System using Gemini and Gemma models  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-multi-agent/)
 - [Frontend Experiences with ADK and A2UI  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-adk-a2ui/)
 - [Next ‘26 Developer Keynote: Building ADK Agents with Skills and Tools  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-agent-skills/)
 - [QueryData for AlloyDB using Gemini Data Analytics  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-alloydb-querydb/)
-- [Raw data to forecasting in seconds with AI agents  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-data-forecasting/)
-- [Showcase of building a secure agent: protect access and data  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-secure-agent/)
-- [Spanner + BigQuery: Real-Time Fraud Defense Shield  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-spanner-biquery-graph/)
-- [Stateful Data Science Agent on Agent Engine  | Google Codelabs](https://decoderr.dev/issue-2026-02/next-adk-deploy-scale/)
-- [The ultimate Cloud Run guide from zero to production demo walkthrough  |  Google Codelabs](https://decoderr.dev/issue-2026-02/next-ultimate-cloud-run/)
 <!-- BLOG-POST-LIST:END -->
 
 Visit: https://decoderr.dev
