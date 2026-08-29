@@ -34,6 +34,8 @@ Monthly curated portfolio on technologies and products.
 | Issue | Link | Description |
 |-------|------|-------------|
 | April 2026 | [Certified Kubernetes Admin Issue](https://decoderr.dev/issue-2026-01/) | CKA Fundamentals + overview to prepare for the exam. |
+| May 2026 | [Cloud Next 2026 Issue](https://decoderr.dev/issue-2026-02/) | Google Cloud Next + Google Codelabs. |
+| May 2026 | [Google Cloud Fundamentals Issue](https://decoderr.dev/issue-2026-03/) | Google Cloud Fundamentals + Introduction to Google Cloud platform. |
 
 Visit: [https://decoderr.dev](https://decoderr.dev)
 
